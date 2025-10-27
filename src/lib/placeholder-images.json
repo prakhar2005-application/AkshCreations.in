@@ -1,0 +1,130 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-banner",
+      "description": "Large banner showing various high-quality print products.",
+      "imageUrl": "https://images.unsplash.com/photo-1750534232339-017655f56081?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwcmludGluZyUyMHNlcnZpY2VzfGVufDB8fHx8MTc1ODg3MTk5NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "printing services"
+    },
+    {
+      "id": "category-tshirts",
+      "description": "Image for the T-shirts category.",
+      "imageUrl": "https://images.unsplash.com/photo-1620045284735-21555f138704?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjdXN0b20lMjB0LXNoaXJ0fGVufDB8fHx8MTc1ODg3MDk1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "custom t-shirt"
+    },
+    {
+      "id": "category-mugs",
+      "description": "Image for the Mugs category.",
+      "imageUrl": "https://images.unsplash.com/photo-1610858562676-a65264bef29b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwcmludGVkJTIwbXVnfGVufDB8fHx8MTc1ODg3MTk5NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "printed mug"
+    },
+    {
+      "id": "category-business-cards",
+      "description": "Image for the Business Cards category.",
+      "imageUrl": "https://images.unsplash.com/photo-1599108859519-8ac78fd1b912?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxidXNpbmVzcyUyMGNhcmRzfGVufDB8fHx8MTc1ODc1MzE5NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "business cards"
+    },
+    {
+      "id": "category-banners",
+      "description": "Image for the Banners category.",
+      "imageUrl": "https://images.unsplash.com/photo-1603024206111-04b833249527?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxsYXJnZSUyMGJhbm5lcnxlbnwwfHx8fDE3NTg4NzE5OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "large banner"
+    },
+    {
+      "id": "product-1-a",
+      "description": "Main image for a custom t-shirt.",
+      "imageUrl": "https://images.unsplash.com/photo-1576417677416-6ca3adfb5435?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3aGl0ZSUyMHQtc2hpcnR8ZW58MHx8fHwxNzU4ODA4MjgxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "white t-shirt"
+    },
+    {
+      "id": "product-1-b",
+      "description": "Side view of a custom t-shirt.",
+      "imageUrl": "https://images.unsplash.com/photo-1578346021958-c58829af708b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx0LXNoaXJ0JTIwc2lkZXxlbnwwfHx8fDE3NTg4NzE5OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "t-shirt side"
+    },
+    {
+      "id": "product-2-a",
+      "description": "Main image for a ceramic mug.",
+      "imageUrl": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3aGl0ZSUyMG11Z3xlbnwwfHx8fDE3NTg4Njk3Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "white mug"
+    },
+    {
+      "id": "product-2-b",
+      "description": "Mug with a design printed on it.",
+      "imageUrl": "https://images.unsplash.com/photo-1720752844573-efd69718ee46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtdWclMjBkZXNpZ258ZW58MHx8fHwxNzU4ODcxOTk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mug design"
+    },
+    {
+      "id": "product-3-a",
+      "description": "Stack of premium business cards.",
+      "imageUrl": "https://images.unsplash.com/photo-1624567881801-a5a85867d990?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxidXNpbmVzcyUyMGNhcmRzfGVufDB8fHx8MTc1ODc1MzE5NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "business cards"
+    },
+    {
+      "id": "product-4-a",
+      "description": "Large vinyl banner for outdoor use.",
+      "imageUrl": "https://images.unsplash.com/photo-1648618267514-8baf8d8829b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx2aW55bCUyMGJhbm5lcnxlbnwwfHx8fDE3NTg3NTMxOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vinyl banner"
+    },
+    {
+      "id": "product-5-a",
+      "description": "Custom printed tote bag.",
+      "imageUrl": "https://images.unsplash.com/photo-1544816155-12df9643f363?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0b3RlJTIwYmFnfGVufDB8fHx8MTc1ODc4ODQyNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tote bag"
+    },
+    {
+      "id": "product-6-a",
+      "description": "Personalized phone case.",
+      "imageUrl": "https://images.unsplash.com/photo-1535157412991-2ef801c1748b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwaG9uZSUyMGNhc2V8ZW58MHx8fHwxNzU4ODEzNTA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "phone case"
+    },
+    {
+      "id": "testimonial-1",
+      "description": "Avatar for a customer testimonial.",
+      "imageUrl": "https://images.unsplash.com/photo-1535643302794-19c3804b874b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTg3ODg5NzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "Avatar for a customer testimonial.",
+      "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3b21hbiUyMHNtaWxpbmd8ZW58MHx8fHwxNzU4NzU5NDE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "Avatar for a customer testimonial.",
+      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTg4MzA1NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "about-us-main",
+      "description": "Image showing the PrintPro team or workspace.",
+      "imageUrl": "https://images.unsplash.com/photo-1671472351776-1f87626de647?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjcmVhdGl2ZSUyMHdvcmtzcGFjZXxlbnwwfHx8fDE3NTg4MTg2Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "creative workspace"
+    },
+    {
+      "id": "contact-map",
+      "description": "Map showing the location of PrintPro.",
+      "imageUrl": "https://images.unsplash.com/photo-1603466183710-70b84997a93f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjaXR5JTIwbWFwfGVufDB8fHx8MTc1ODc5MDI4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city map"
+    },
+    {
+      "id": "blog-1",
+      "description": "Featured image for a blog post about design tips.",
+      "imageUrl": "https://images.unsplash.com/photo-1633991810204-8f75dafdd324?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZGVzaWduJTIwdG9vbHN8ZW58MHx8fHwxNzU4ODI4NDA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "design tools"
+    },
+    {
+      "id": "blog-2",
+      "description": "Featured image for a blog post about business growth.",
+      "imageUrl": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxidXNpbmVzcyUyMG1lZXRpbmd8ZW58MHx8fHwxNzU4Nzk0NjYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "business meeting"
+    },
+    {
+      "id": "blog-3",
+      "description": "Featured image for a blog post about printing techniques.",
+      "imageUrl": "https://images.unsplash.com/photo-1603204254626-d0de8eb24cf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwcmludGluZyUyMHByZXNzfGVufDB8fHx8MTc1ODgzOTc3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "printing press"
+    }
+  ]
+}
